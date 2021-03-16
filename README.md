@@ -2,7 +2,7 @@
 # GitHub API
 ## Proposta de app do zero com escopo reduzido (2h):
 
-OBS: Tenha um projeto clean já rodando no Xcode, afim de economizar tempo 
+## Requisitos obrigatórios:
 
 ### Home - Listagem de Repositórios
 * Listagem dos repositórios Swift do Github.
@@ -20,15 +20,15 @@ Requisitos Essenciais
 
 ### Observações
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências como preferir. 
-* Foque o desenvolvimento nos requisitos obrigatórios. 
+* Foque o desenvolvimento nos requisitos obrigatórios.
+* Para esta etapa tenha um projeto clean já rodando no Xcode, afim de economizar tempo  
 
 ####################################################################################
 
 # Marvel API
-
 ## Proposta de app do zero com escopo de 7 dias corridos:
 
-Requisitos obrigatórios:
+## Requisitos obrigatórios:
 
 ### Home - Characters
 * Listagem dos personagens (infinita). 
@@ -39,13 +39,13 @@ Requisitos obrigatórios:
 * Foto em tamanho maior 
 * Descrição (se houver). 
 
-### Requisitos Essenciais
+## Requisitos Essenciais
 * Swift >= 5.0.
 * Tratamento para falha de conexão. 
 * A aplicação não pode apresentar crash. 
 * Testes unitários. 
 
-### Bônus 
+## Bônus 
 (importante ressaltar que todos os pontos geram uma maior complexidade, por isso, avalie quais pontos são mais importantes)
 * Componentes reutilizáveis UI. 
 * Estruturado dentro de um modelo de arquitetura/modular. 
@@ -55,10 +55,11 @@ Requisitos obrigatórios:
 * Testes de interface. 
 * Telas funcionando em Landscape e Portrait. 
 
-### Importante
+## Importante
 * Subir o desafio em um repositório git publico (Github/Gitlab/Bitbucket) e enviar o link. 
 * Não ter nenhuma menção do Itaú/Iti no Repositório/Projeto. 
 
-### Observações
+## Observações
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências como preferir. 
 * Foque o desenvolvimento nos requisitos obrigatórios.
+* Para esta etapa Tenha o projeto executando no Xcode12 na próxima etapa. 
