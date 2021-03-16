@@ -1,6 +1,6 @@
 
 # GitHub API
-## Proposta de app do zero com escopo reduzido (2h):
+## Live Coding - Proposta de app do zero com escopo reduzido (2h):
 
 ## Requisitos obrigatórios:
 
@@ -26,7 +26,7 @@ Requisitos Essenciais
 ####################################################################################
 
 # Marvel API
-## Proposta de app do zero com escopo de 7 dias corridos:
+## Home Assignment - Proposta de app do zero com escopo de 7 dias corridos:
 
 ## Requisitos obrigatórios:
 
