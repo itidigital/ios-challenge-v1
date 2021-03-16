@@ -2,7 +2,7 @@
 # GitHub API
 ## Proposta de app do zero com escopo reduzido (2h):
 
-OBS.: Solicitar que o entrevistado, tenha um projeto clean rodando no android studio, afim de economizar tempo.
+OBS: Tenha um projeto clean já rodando no Xcode, afim de economizar tempo 
 
 ### Home - Listagem de Repositórios
 * Listagem dos repositórios Swift do Github.
@@ -21,7 +21,8 @@ Requisitos Essenciais
 ### Observações
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências como preferir. 
 * Foque o desenvolvimento nos requisitos obrigatórios. 
- ####################################################################################
+
+####################################################################################
 
 # Marvel API
 
@@ -46,7 +47,7 @@ Requisitos obrigatórios:
 
 ### Bônus 
 (importante ressaltar que todos os pontos geram uma maior complexidade, por isso, avalie quais pontos são mais importantes)
-* UI //Melhorar bullet. 
+* Componentes reutilizáveis UI. 
 * Estruturado dentro de um modelo de arquitetura/modular. 
 * Botão para favoritar personagem da lista. 
 * Botão para favoritar personagem na tela de detalhes.
