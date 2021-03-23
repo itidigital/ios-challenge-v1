@@ -1,45 +1,45 @@
 
 # GitHub API
-## Live Coding - Proposta de app do zero com escopo reduzido (2h):
+## Live Coding - Proposta de app do zero com escopo reduzido (2h)
 
-## Requisitos obrigatórios:
+## Requisitos obrigatórios
 
-### Home - Listagem de Repositórios
+### Funcional - Home Listagem de Repositórios
 * Listagem dos repositórios Swift do Github.
 * Barra de busca para filtragem local.
 * Tratamento de exceções.
 
-Requisitos Essenciais
+### Técnicos
 * Swift >= 5.0.
 * Testes unitários.
 
-### Bônus
+## Bônus
 * Testes de interface. 
 * Tratamento para falha de conexão. 
 * Telas funcionando em Landscape e Portrait. 
 
-### Observações
+## Observações
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências como preferir. 
 * Foque o desenvolvimento nos requisitos obrigatórios.
-* Para esta etapa tenha um projeto clean já rodando no Xcode, afim de economizar tempo  
+* Para realização desta etapa tenha um projeto clean já rodando no Xcode, afim de economizar tempo.  
 
 ####################################################################################
 
 # Marvel API
 ## Home Assignment - Proposta de app do zero com escopo de 7 dias corridos:
 
-## Requisitos obrigatórios:
+## Requisitos obrigatórios
 
-### Home - Characters
+### Funcional - Home Personagens
 * Listagem dos personagens (infinita). 
 * Barra de busca para filtrar lista de personagens por nome. 
 * Interface de lista vazia, tratamento de erros da api ou de conexão. 
 
-### Detalhes do personagem
-* Foto em tamanho maior 
+### Funcional - Detalhes do Personagem
+* Foto em tamanho maior. 
 * Descrição (se houver). 
 
-## Requisitos Essenciais
+### Técnicos
 * Swift >= 5.0.
 * Tratamento para falha de conexão. 
 * A aplicação não pode apresentar crash. 
